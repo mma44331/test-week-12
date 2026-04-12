@@ -1,3 +1,9 @@
+
+
+meyir moshe aush
+315292904
+negev
+
 # Coordinates API - Kubernetes Deployment
 
 A FastAPI application that manages geographic coordinates with PostgreSQL backend, deployed using Kubernetes StatefulSet.
